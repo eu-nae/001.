@@ -81,7 +81,7 @@ a img { border: none; }
 .title { font-family: 'Exo 2', sans-serif; color: #000; text-align: center; } 
 .title h2 { font-size: 45px; margin-bottom: 10px; font-weight: normal; } 
 .title h2 span { color: #ff8342; } 
-.title h2 p { color: #555; font-style: 18px; } 
+.title p { color: #555; font-size: 18px; } 
 
 
 /* ==========================================
